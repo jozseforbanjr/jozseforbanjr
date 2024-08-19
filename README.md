@@ -16,6 +16,10 @@ I'm Jozsef Orban, a passionate software developer with a focus on Data Science a
 
 🌟 Top Repositories:
 
+- **Python3 based Extract Transform-Load (ETL) software for data preparation for an Enterprise Resource Planning (ERP) system**: [https://github.com/jozseforbanjr/python_ETL_CM](https://github.com/jozseforbanjr/python_ETL_CM) - a repo related to my work which resulted in the code as part of my thesis at GDU. The provided code is a working but modelled version of the working software.  
+
 - **AlkFejlTech**: [https://github.com/josesan77/python_ETL_CM](https://github.com/jozseforbanjr/AlkFejlTech) - a repo related to GDU; **Application development technology** subject this is the practicing for the exam. IntelliJ IDEA was used as Java IDE for development. (comments mainly in Hungarian)
 
 - **runnersdemo**: [https://github.com/jozseforbanjr/runnersdemo](https://github.com/jozseforbanjr/runnersdemo) - the exam project of **Application development technology**, same tools as above. (comments mainly in Hungarian)
+
+- **Primes and 3D cubes**: [Primes](https://github.com/jozseforbanjr/ProjectPrimes3D) and [3D cubes](https://github.com/jozseforbanjr/3Dcubes) - repos of Python based graphical representation of single or multiple cubes in specified 3D arrangement, rotating or not, with colored surfaces. A hobby project.
